@@ -1,6 +1,6 @@
 # LinkedIn Email Enrichment
 
-> **Note:** Source code is not publicly available due to confidentiality restrictions.
+<!-- > **Note:** Source code is not publicly available due to confidentiality restrictions. -->
 
 ## Highlights
 
